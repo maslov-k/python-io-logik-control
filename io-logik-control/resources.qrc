@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/minus.png</file>
+    <file>icons/scheme.png</file>
+    <file>icons/exit.ico</file>
+    <file>icons/gear.ico</file>
+    <file>icons/plus.png</file>
+    <file>icons/led_green.png</file>
+    <file>icons/minus_black.png</file>
+    <file>icons/plus_black.png</file>
+    <file>icons/led_red.png</file>
+    <file>icons/help.ico</file>
+    <file>icons/Settings.ico</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>icons/checkbox.png</file>
+    <file>icons/down_arrow.png</file>
+    <file>icons/handle.png</file>
+  </qresource>
+</RCC>
